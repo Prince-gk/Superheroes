@@ -1,5 +1,7 @@
 ## Superheros API
 
+Postman collection => <https://www.postman.com/prince-3345472/superheroes/collection/spcylgv/challenge-2-superheroes?action=share&creator=43750325>
+
 ## How to get started
 
 Ensure you have python, pipenv and sqlite3 installed locally:
